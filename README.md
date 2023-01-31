@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola Este Es un Espacio De Alejandro Giraldo 👋
+
+
+## Aqui encontraras los idiomas de programacion que conozco
+
 
 <!--
 **AlejoGX/AlejoGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
