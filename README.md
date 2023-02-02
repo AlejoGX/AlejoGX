@@ -1,7 +1,7 @@
 ### Hola Este Es un Espacio De Alejandro Giraldo 👋
 
 
-## Aqui encontraras los idiomas de programacion que conozco
+## Aqui encontraras los idiomas de programacion que conozco y en los cuales, hago proyectos o pruebas de codigo para aprender
 
 
 <!--
